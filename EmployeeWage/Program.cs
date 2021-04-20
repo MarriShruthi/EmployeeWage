@@ -13,6 +13,7 @@ namespace EmployeeWage
 			empWageBuilder.computeEmpWage();
 			Console.Read();
 		}
+
 	}
 }
 
